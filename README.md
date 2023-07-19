@@ -16,12 +16,10 @@ To run the Python code and reproduce the analysis, the following dependencies ar
 - numpy
 
 git clone https://github.com/Sonamyy/Iphone-Sales-Analysis.git
-
 cd Iphone-Sales-Analysis
-
 python iphone_sales_analysis.py
 
-Results:
+## Results:
 The analysis generates several visualizations, including line plots, bar charts, and pie charts, to provide insights into iPhone sales trends, regional sales distribution, popular models, and more.
 
 Please refer to the generated output and visualizations within the code for a detailed analysis of the iPhone sales data.
